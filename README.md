@@ -1,5 +1,2 @@
 #article
-gaoyu is a stude
-
-
-assadasdfsfsdfdfdsfdsf
+gaoyu is a student
